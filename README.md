@@ -1,6 +1,6 @@
 <div align="center">
 
-# MoneyPrinterTurbo 💸
+# MoneyPrinterTurbo - Batch Video Generation from a Single Topic (modified) 💸
 
 ### 一站式 AI 短视频生成工具
 
